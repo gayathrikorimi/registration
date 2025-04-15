@@ -107,7 +107,7 @@ const RegistrationForm = () => {
           />
         </div>
 
-        <button type="submit">Register</button>
+        <button type="End">Register</button>
       </form>
     </div>
   );
